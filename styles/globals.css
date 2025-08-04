@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  color: #333;
+}
+
+button {
+  padding: 0.5em 1.5em;
+  margin: 0.5em;
+  font-size: 1em;
+  cursor: pointer;
+}
