@@ -1,6 +1,5 @@
 {
   "framework": "nextjs",
-  "rootDirectory": "next-app",
   "buildCommand": "next build",
   "outputDirectory": ".next",
   "rewrites": [
